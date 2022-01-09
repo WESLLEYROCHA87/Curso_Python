@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=hdDHg1p3YVc&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=9
+
 # Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as
 # informações possíveis sobre elas;
 
