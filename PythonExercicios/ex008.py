@@ -2,8 +2,8 @@
 
 valor = float(input('Entre com o valor em Metros: '))
 
-c = valor * 100
-m = valor * 1000
+cm = valor * 100
+mm = valor * 1000
 
-print('Centímetro(s): {}' .format(c))
-print('Milímetro(s): {}' .format(m))
+print('Centímetro(s): {}' .format(cm))
+print('Milímetro(s): {}' .format(mm))
